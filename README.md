@@ -48,13 +48,12 @@ My passion lies in bridging technical and business domains: taking open data and
 - (https://github.com/Yalamanchili7/Grid-Infra-Analysis)
   *Grid Intelligence and Environmental Constraints.*  
 
-- ⚡ 
 
-- ☀️ [**Solar Layout Optimizer**](#)  
-  *End-to-end site selection tool integrating GIS data, ML yield models, and financial projections.*  
+- https://github.com/Yalamanchili7/solar-layout-optimizer
+  * Solar Layout Optimizer.*
 
-- 📊 [**Probabilistic Demand Forecasting**](#)  
-  *Time-series forecasting (XGBoost, Prophet) with uncertainty estimates for manufacturing planning.*  
+- https://github.com/Yalamanchili7/Rag-Application-
+  * RAG Application.*
 
 ---
 

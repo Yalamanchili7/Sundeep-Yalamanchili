@@ -45,13 +45,12 @@ My passion lies in bridging technical and business domains: taking open data and
 
 ## 📂 Featured Projects  
 
-- 🤖 [**LLM-Powered Legal Analyzer**](#)  
-  *Automates EPC contract/ NDA review, removing bottlenecks in project dealmaking.*  
+- (https://github.com/Yalamanchili7/Grid-Infra-Analysis)
+  *Grid Intelligence and Environmental Constraints.*  
 
-- ⚡ [**AI for Interconnection & Grid Studies**](#)  
-  *Graph neural networks + optimization for faster ISO project approvals.*  
+- ⚡ 
 
-- ☀️ [**Solar Site Analyzer**](#)  
+- ☀️ [**Solar Layout Optimizer**](#)  
   *End-to-end site selection tool integrating GIS data, ML yield models, and financial projections.*  
 
 - 📊 [**Probabilistic Demand Forecasting**](#)  

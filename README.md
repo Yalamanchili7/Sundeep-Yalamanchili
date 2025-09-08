@@ -49,11 +49,11 @@ My passion lies in bridging technical and business domains: taking open data and
   *Grid Intelligence and Environmental Constraints.*  
 
 
-- https://github.com/Yalamanchili7/solar-layout-optimizer
-  * Solar Layout Optimizer.*
+- (https://github.com/Yalamanchili7/solar-layout-optimizer)
+  *Solar Layout Optimizer.*
 
-- https://github.com/Yalamanchili7/Rag-Application-
-  * RAG Application.*
+- (https://github.com/Yalamanchili7/Rag-Application-)
+  *RAG Application.*
 
 ---
 
